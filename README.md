@@ -21,5 +21,48 @@ A complete Full Stack E-Commerce platform where users can browse products, manag
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🎯 Features
+
+### 👤 User Features:
+- User registration and JWT-based login
+- Product search, category filter, and pagination
+- Add to Cart and Cart Quantity Management
+- Checkout and Order placement
+- View order history
+
+### 🛠️ Admin Features:
+- Admin authentication with role-based access
+- Product management (Add, Edit, Delete)
+- Order management (Status update)
+- User listing and monitoring
+
+### 📦 Backend (Spring Boot):
+- Secure RESTful APIs with JWT Authentication
+- Role-based access using Spring Security
+- Data persistence using Spring Data JPA
+- Error handling and validation
+
+### 💻 Frontend (React):
+- Dynamic UI with React Hooks & React Router
+- Global state management using Context API / Redux
+- Form handling with validation
+- Responsive UI using Tailwind CSS
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer      | Technology                               |
+|------------|------------------------------------------|
+| Frontend   | React.js, Tailwind CSS, Axios, React Router |
+| Backend    | Java, Spring Boot, Spring Security, Spring Data JPA |
+| Database   | MySQL                                    |
+| Tools      | Postman, Git, GitHub, IntelliJ, VS Code  |
+
+---
+
+
 
