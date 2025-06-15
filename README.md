@@ -1,59 +1,25 @@
-# 🛍️ E-Commerce Full Stack Website
+# 🛒 E-Commerce Full Stack Web Application
 
-This is a full-stack E-Commerce web application built with **React.js** for the frontend and **Spring Boot** for the backend, with **MySQL** as the database. It allows users to browse products, add items to their cart, place orders, and manage their profiles. Admin users can manage inventory, orders, and user roles.
-
----
-
-## 📌 Features
-
-### 👥 User Side:
-- User registration and login
-- Browse products by category
-- Add/remove products to/from cart
-- Checkout and order placement
-- View past orders and order status
-- Secure user authentication (JWT)
-
-### 🛠️ Admin Panel:
-- Admin login
-- Manage products (CRUD)
-- View all orders and customers
-- Change order status (pending, shipped, delivered)
+A complete Full Stack E-Commerce platform where users can browse products, manage carts, and place orders — while admins can manage inventory, users, and orders. Built using **React.js (Frontend)**, **Spring Boot (Backend)**, and **MySQL (Database)**.
 
 ---
 
-## 🧰 Tech Stack
+## 📸 Demo Screenshots
 
-### 💻 Frontend:
-- React.js
-- React Router
-- Axios
-- Tailwind CSS / Bootstrap (choose based on what you used)
-
-### 🖥️ Backend:
-- Java
-- Spring Boot
-- Spring Security (JWT)
-- Spring Data JPA
-
-### 🗄️ Database:
-- MySQL
-
-### 🔧 Tools:
-- Postman (for API testing)
-- Git & GitHub
-- VS Code & IntelliJ IDEA
+> Add screenshots here:
+- 🏠 Home Page  
+- 🔐 Login/Register  
+- 🛍️ Product Listing  
+- 🧺 Cart Page  
+- 📦 Admin Dashboard  
 
 ---
 
-## 🚀 Getting Started
-
-### 🧩 Prerequisites:
-- Node.js
-- Java 17+
-- MySQL Server
-- Maven
+## 🚀 Live Demo (Optional)
+> [Click Here to View Live App](#)  
+*(Add link if deployed on Vercel, Netlify, Render, or Railway)*
 
 ---
 
+## 📂 Project Structure
 
